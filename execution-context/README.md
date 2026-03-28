@@ -4,7 +4,7 @@ A single place to revise how JavaScript creates, runs, and tears down code. Use 
 
 ---
 
-## 📘 Topics to Cover in execution-context/README.md
+## 📘 Topics covered in this guide
 
 This document follows the structure below. For major ideas, each block uses:
 

@@ -36,7 +36,7 @@ Understanding the execution model helps you:
 | Closures & Memory | ./closures-memory |
 | Hoisting | ./hoisting |
 | Async Patterns | ./async-patterns |
-
+ 
 ---
 
 ## 💡 Real-World Relevance
